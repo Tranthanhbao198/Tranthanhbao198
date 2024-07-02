@@ -1,4 +1,6 @@
-## Hi there 👋
+Hi there 👋, Welcome!
+My name is Tran, Thanh Bao. Currently, I am a Robotics Engineer in Vietnam 🇻🇳.
+I have a huge interest in robotics( AMR, multi-robot), Computer Vision and AI. 
 
 <!--
 **Tranthanhbao198/Tranthanhbao198** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
