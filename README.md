@@ -1,5 +1,4 @@
 Hi there 👋, Welcome!
-My name is Tran, Thanh Bao. Currently, I am a Robotics Engineer in Vietnam 🇻🇳.
 I have a huge interest in robotics( AMR, multi-robot), Computer Vision and AI. 
 
 <!--
